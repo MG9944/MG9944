@@ -4,6 +4,6 @@
 
 🌱 I’m currently learning Kotlin and developing mobile applications.
 
-💞️ I'm looking to collaborate with other app developers or WebApp devs (Spring Boot | Laravel).
+💞️ I'm looking to collaborate with other app developers or WebApp devs (Spring Boot | Laravel | ReactJS).
 
 📫 Email: matthiasgdula@gmail.com
